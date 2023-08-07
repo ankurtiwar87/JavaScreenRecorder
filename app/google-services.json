@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160476744967",
+    "project_id": "javascreenrecorder",
+    "storage_bucket": "javascreenrecorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160476744967:android:3e47552e2547b5533489a2",
+        "android_client_info": {
+          "package_name": "com.ankur.javascreenrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160476744967-7nj6j6cccsnsekghkou3p60vb1dr715o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankur.javascreenrecorder",
+            "certificate_hash": "39d9ced70f57f2ef8962296b807b56e749fdfd9b"
+          }
+        },
+        {
+          "client_id": "160476744967-qfc277gvn50667grs43rjhpsbig48uii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5gzGm5pobHY_1VlCSHOg0LO9JJwmY-eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160476744967-5a6tn5f4kvga0cb82aldtgj65n5u8b21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
